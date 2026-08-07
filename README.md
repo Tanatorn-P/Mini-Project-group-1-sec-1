@@ -118,15 +118,12 @@
 ## 📐 Group Grading Rubric (เกณฑ์การวัดผลโครงงาน)
 
 | หมวดหมู่การประเมิน | รายละเอียดเกณฑ์ (Criteria) | น้ำหนัก |
-| --- | --- | --- |
+| :--- | :--- | :---: |
 | **1. Technical Implementation** | มีการประยุกต์ใช้ Data Structure (Tuple, List, Dict) และ Control Flow ตามเกณฑ์ LO1-LO3 อย่างถูกต้อง | 30% |
 | **2. Defensive Programming** | มีระบบ Guard Clauses, Exception Handling และการตรวจสอบภาพ/ข้อมูลชำรุด (LO4) | 25% |
-| **3. AI & OCR Integration** | การใช้ EasyOCR สกัดข้อมูลข้อความ ร่วมกับ XAI Verification (LO5)
-
- | 20% |
+| **3. AI & OCR Integration** | การใช้ EasyOCR สกัดข้อมูลข้อความ ร่วมกับ XAI Verification (LO5) | 20% |
 | **4. Code Quality & Clean Code** | การแยก Modular Function, Single Responsibility Principle และการใส่ Type Hints | 15% |
 | **5. Collaboration & Documentation** | เอกสารโครงงาน (PDF/README), Kanban Tracking และผลการประเมินกลุ่ม | 10% |
-
 ---
 
 
