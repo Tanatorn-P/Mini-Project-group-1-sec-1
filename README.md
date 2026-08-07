@@ -4,3 +4,4 @@
 * [Project Document](https://drive.google.com/drive/folders/1EaSwRU2gAQIWgEvYskcnzQaVyWkXQnMT)
 * [โฟลเดอร์ตัวอย่าง](https://drive.google.com/drive/folders/1EaSwRU2gAQIWgEvYskcnzQaVyWkXQnMT)
 * [Self-Assessment](https://docs.google.com/spreadsheets/d/1jX7Q0Kz7-gCyZgpaXxYjq70AVYcW8kfg/edit?usp=sharing&ouid=111380127827180933816&rtpof=true&sd=true)
+* [Kanban](https://colab.research.google.com/drive/10l1ZIAGxo2SMxSOKydHvYfSMhkC7wPjJ?usp=sharing)
