@@ -17,17 +17,9 @@
 ##  สมาชิกกลุ่ม (Group Members)
 
 | รหัสนักศึกษา | ชื่อ - นามสกุล | กลุ่มเรียน (Section) | บทบาทหน้าที่ |
-| --- | --- | --- | --- |
-| `683380576-2` | นายธนธรณ์ ผาลัง
-
- | Sec 1 | Developer / Logic & OCR Integration
-
- |
-| `683380584-3` | นายพีรพล พรหมมิ
-
- | Sec 1 | Developer / Google Sheet Integration & Architecture
-
- |
+| :---: | :--- | :---: | :--- |
+| 683380576-2 | นายธนธรณ์ ผาลัง | Sec 1 | Developer / Logic & OCR Integration |
+| 683380584-3 | นายพีรพล พรหมมิ | Sec 1 | Developer / Google Sheet Integration & Architecture |
 
 * **อาจารย์ประจำวิชา:** ผศ.ดร. บุญทรัพย์ ไวคำ
 
